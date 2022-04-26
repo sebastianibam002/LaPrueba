@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: "Assets/Scenes/Menu\u0301Principal.unity"
+    guid: 4252acb9df66fc644b62f6493e627f69
+  - enabled: 1
+    path: Assets/Scenes/Mascota2.unity
+    guid: 8af5333af8927eb46bdf52ddc64496eb
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 9acbce5128df9fa46a192335275e3619
+  - enabled: 1
+    path: Assets/Scenes/JuegoTwo.unity
+    guid: 60579efce87995241b7d6ee2f12c59cd
+  - enabled: 1
+    path: Assets/Monedas2.0.unity
+    guid: 61fbcdf7c4dc148258d48a05b9b753da
+  - enabled: 1
+    path: Assets/Scenes/JuegoThree.unity
+    guid: cb4d764bb1965da439613202fbe38cc5
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 7f5b66b71f8383e44b97ede5e3c77e47
+  - enabled: 1
+    path: Assets/Juego5.unity
+    guid: 7308474337b134502a64b9b36c9c31b0
+  - enabled: 1
+    path: Assets/Scenes/TiendaRopa.unity
+    guid: 8758c14467bcdb2498dde6909c17a1fc
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: 46e14d0d6ab427c418fa442cc7cbc15b
+  - enabled: 1
+    path: Assets/Scenes/perfil.unity
+    guid: 83f6bc99c8e63460b821f1a7ce6be6f4
+  - enabled: 1
+    path: Assets/Scenes/Mascota.unity
+    guid: 66a4242dcdfe768439b2ffc72d8f6c95
+  - enabled: 1
+    path: Assets/Scenes/MenuTwo.unity
+    guid: 7d16974d3779067419905b13a35d578f
+  - enabled: 1
+    path: Assets/Scenes/PantallaCelular.unity
+    guid: 2fae5c7f57584a548b704fb7850690b4
+  - enabled: 1
+    path: Assets/Scenes/RandomMonwy.unity
+    guid: 3b9f89e9ccaab4348ae30a1713bced85
+  - enabled: 1
+    path: Assets/store.unity
+    guid: ff02906105d5f481b8fbf0b8cc8d3f01
+  - enabled: 1
+    path: Assets/Scenes/Cartas.unity
+    guid: 75447a2a6e261114b818c01848088eef
+  - enabled: 0
+    path: 
+    guid: 9296f98fa4d81f440a4b543e535b7557
